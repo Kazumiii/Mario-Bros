@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 52f0bd14f33f2354193c12ce38142b75
+timeCreated: 1501836476
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - jump: {fileID: 8300000, guid: 0b172af6bcac2a849b7918b2dd980022, type: 3}
+  - getCoin: {fileID: 8300000, guid: 4b720411949e5ba4fb5a44d44b63adfa, type: 3}
+  - rockSmash: {fileID: 8300000, guid: c1bb5d7a4db18ca43abacfca91f499d9, type: 3}
+  - ManyDead: {fileID: 8300000, guid: 7936192b74c021c4ab22118fae156df1, type: 3}
+  - soundEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
